@@ -1,0 +1,1 @@
+# android_device_X00R_kernel
